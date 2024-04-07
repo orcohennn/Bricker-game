@@ -1,6 +1,7 @@
 # Bricker Game
 
-The Bricker Game is a Java-based game where players control a paddle to bounce a ball and break bricks. This README provides an overview of the project structure, key classes, and functionalities.
+The Bricker Game is a Java-based game where players control a paddle to bounce a ball and break bricks. This README provides an overview of the project structure, key classes, and functionalities,
+developed using DanoGameLab library.
 
 ## Media
 <img src="readme_files/readmeImg2.jpeg" alt="Description of Image" width="300" height="300">
